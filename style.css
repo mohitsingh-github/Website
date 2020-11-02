@@ -23,7 +23,7 @@
 
 }
 
-div>p{
+.headline {
 	margin-left: 30px;
 	margin-top:80px;
     margin-bottom:120px;
@@ -39,7 +39,7 @@ div>p{
 
 .content{
 position: relative;
-border: 4px solid brown;
+border: 5px solid brown;
 font-family: comic sans MS;
 font-weight: bold;
 font-size: 30px;
@@ -49,6 +49,7 @@ padding: 60px;
 background-color: green;
 width:300px;
 margin-left: 45px;
+margin-bottom: 60px;
 }
 
 /* Large Devices */
