@@ -9,13 +9,15 @@
 		}
 
 		h1 {
-			text-align: left;
+                        margin-top: 0px;
+			margin-left: 0px;
+                        text-align: left;
 			font-size: 50px;
 			font-family: cursive;
-			background-color: purple;
-			color: lightgrey;
-		    padding: 40px;
-		    opacity:90%;
+			background-color: SILVER;
+			color: WHITE;
+		        padding: 40px;
+		        opacity:90%;
 
 }
 
