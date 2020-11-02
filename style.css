@@ -19,7 +19,7 @@
 			background-color: #A9A9A9;
 			color: white;
 		        padding: 40px;
-		       
+		       width: 100%;
 
 }
 
@@ -30,7 +30,7 @@
 	font-size: 22px;
 	font-weight: bold;
 	font-family: Arial;
-	font-size: 60px;
+	font-size: 300%;
 	color: purple;
 	opacity: 75%;
 	text-align: center;
@@ -48,7 +48,8 @@ text-align: center;
 padding: 60px;
 background-color: green;
 width:300px;
-margin-left: 45px;
+margin-left: 32px;
+margin-right: 0px;
 margin-bottom: 90px;
 opacity: 80%;
 }
