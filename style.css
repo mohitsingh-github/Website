@@ -31,7 +31,7 @@
 	font-weight: bold;
 	font-family: Arial;
 	font-size: 60px;
-	color: black;
+	color: purple;
 	opacity: 85%;
 	text-align: center;
 }
@@ -50,6 +50,7 @@ background-color: green;
 width:300px;
 margin-left: 45px;
 margin-bottom: 60px;
+opacity: 80%;
 }
 
 /* Large Devices */
